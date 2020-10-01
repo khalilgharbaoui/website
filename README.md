@@ -1,4 +1,4 @@
-# Development Bootcamp Website
+# Development Bootcamp Website -An amazing project
 
 ![Development
 Bootcamp](https://raw.githubusercontent.com/devbootcamps/website/master/app/assets/images/headers/taste-of-code-camp-home-xs.png)
@@ -13,3 +13,5 @@ This is the code for the [Development Bootcamp
 Website](http://www.developmentbootcamp.nl). Feel free to look through
 the code.
 
+This project is for demonstration purpose and can also be used in real life scenarios.
+Thank You.
